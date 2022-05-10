@@ -14,7 +14,7 @@ function isPositief(getal) {
   if (getal >= 0) {
   teruggeefWaarde = true
   }
-  else () {
+  else {
   teruggeefWaarde = false
 }
   return teruggeefWaarde;
