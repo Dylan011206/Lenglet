@@ -9,6 +9,11 @@ module.exports = {grootsteGetal}
 function grootsteGetal(a, b) {
   var uitkomst = undefined;
   // vul hieronder aan
-  
+  if (a > b) {
+    var uitkomst = a;
+  }
+  else {
+    var uitkomst = b;
+  }
   return uitkomst;
 }
