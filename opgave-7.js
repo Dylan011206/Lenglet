@@ -9,9 +9,15 @@ module.exports = {gemiddelde}
 
 function gemiddelde(cijfers) {
   // cijfers is een array
-  var uitkomst = undefined;
+  var uitkomst = 0;
   
+  for (var teller = 0; teller < cijfers.length; teller = teller + 1) {
+    uitkomst = uitkomst + cijfers[teller];
+  }
   
-  
+  uitkomst = uitkomst / cijfers.length;
+
   return uitkomst;
 }
+
+// 8.75 is goed

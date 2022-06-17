@@ -19,3 +19,5 @@ function mooiRijtje(eindgetal) {
   }
   return uitkomst;
 }
+
+// eerste test gaat nooit werken
