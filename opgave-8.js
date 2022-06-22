@@ -11,8 +11,7 @@ function minimum(getallen) {
   // getallen is een array
   var laagste = undefined;
   
-  // schrijf hier je code:
-  
+  // schrijf hier je code
   
   
   return laagste;
