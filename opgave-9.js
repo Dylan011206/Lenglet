@@ -12,7 +12,9 @@ function aantalNegatieveGetallen(getallen) {
   var aantalNegatieve = 0;
   
   // schrijf hier je code:
-  
+  for( var i=0; i < 0; aantalNegatieve++) {
+    i = i++
+  }
   
   
   return aantalNegatieve;

@@ -10,9 +10,9 @@ module.exports = {mooiRijtje}
 
 function mooiRijtje(eindgetal) {
   var uitkomst = ""
-  
+  var eindgetal = 15;
   // haal hieronder ______ weg en vervang dit door het juiste stukje code
-  for (var teller = 0; ______ ; teller++) {
+  for (var teller = 0; teller < 15; teller++) {
 
     // typ hier de code die herhaald moet worden
       
